@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Candidate, <a href='https://sites.google.com/pdx.edu/alidacantor/research'>Cantor Lab</a>. School of Earth, Environment, and Society, College of Liberal Arts and Sciences
+subtitle: PhD Candidate, <a href='https://sites.google.com/pdx.edu/alidacantor/research'>Cantor Lab</a>. School of Earth, Environment, and Society, College of Liberal Arts and Sciences
 Senior Fellow, <a href='https://www.pdx.edu/policy-consensus-center/'>National Policy Consensus Center</a>. Hatfield School of Government, College of Urban and Public Affairs
 Portland State University
 
