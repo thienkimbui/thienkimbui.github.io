@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Water governance, community mapmaking, and creative participation.
+subtitle: Water governance, community mapmaking, and creative participation
 
 profile:
   align: right
@@ -25,5 +25,5 @@ latest_posts:
 
 As a human-environment geographer, I study water conflict, governance, and collaboration in the US West. I use community-based participatory methods, including storytelling, deep listening, and human ecology mapping, to open the door for more compassionate, sustainable, and ethical water management. 
 
-I am a PhD candidate in the <a href='https://sites.google.com/pdx.edu/alidacantor/research'>Cantor Lab</a> in the School of Earth, Environment and Society at Portland State University, and I also conduct research linked to on-the-ground practice as a senior fellow at the <a href='https://www.pdx.edu/policy-consensus-center/'>National Policy Consensus Center</a>.
+At Portland State University, I am a PhD candidate in the <a href='https://sites.google.com/pdx.edu/alidacantor/research'>Cantor Lab</a> in Geography, part of the School of Earth, Environment and Society in the College of Liberal Arts and Sciences. I also conduct research linked to on-the-ground practice as a senior fellow at the <a href='https://www.pdx.edu/policy-consensus-center/'>National Policy Consensus Center</a>, part of the Hatfield School of Government in the College of Urban and Public Affairs.
 
