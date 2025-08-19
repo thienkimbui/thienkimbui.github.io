@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate, <a href='https://sites.google.com/pdx.edu/alidacantor/research'>Cantor Lab</a>. School of Earth, Environment, and Society, College of Liberal Arts and Sciences
+subtitle: Water governance, community mapmaking, and creative participation.
+
 profile:
   align: right
   image: prof_pic.jpg
@@ -22,8 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+As a human-environment geographer, I study water conflict, governance, and collaboration in the US West. I use community-based participatory methods, including storytelling, deep listening, and human ecology mapping, to open the door for more compassionate, sustainable, and ethical water management. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a PhD candidate in the <a href='https://sites.google.com/pdx.edu/alidacantor/research'>Cantor Lab</a> in the School of Earth, Environment and Society at Portland State University, and I also conduct research linked to on-the-ground practice as a senior fellow at the <a href='https://www.pdx.edu/policy-consensus-center/'>National Policy Consensus Center</a>.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
