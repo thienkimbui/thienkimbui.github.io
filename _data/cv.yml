@@ -1,95 +1,114 @@
-- title: General Information
+- title: About Me
   type: map
   contents:
-    - name: Full Name
+    - name: Name
       value: Thien-Kim Bui
-    - name: Languages
-      value: English, Vietnamese
-
+    - name: 
+      value: PhD candidate, Portland State University
+    - name: 
+      value: Complete CV available upon request
+      
+- title: Research Interests
+  type: list
+  contents:
+    - Political ecology, legal geography, critical Indigenous studies, community-based participatory research, water-energy nexus
+        
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: PhD, Earth, Environment and Society
       institution: Portland State University, Portland, Oregon, United States
       year: in progress
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: BA, Classics
+      institution: Reed College, Portland, Oregon, United States
+      year: 2005
 
-- title: Experience
+- title: Selected Professional Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Senior Fellow
+      institution: National Policy Consensus Center, Portland State University
+      year: 2024 - current
+      
+    - title: Graduate Research Assistant, Dr. Rebecca McLain
+      institution: National Policy Consensus Center, Portland State University
+      year: 2022 - 2024
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Graduate Research Assistant, Dr. Shane Day
+      institution: Public Administration, Hatfield School of Government. Portland State University
+      year: 2024
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+    - title: Graduate Research Assistant, Dr. Alida Cantor
+      institution: Department of Geography, Portland State University
+      year: 2023
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Graduate Research Assistant, Dr. Nancee Hunter
+      institution: Department of Geography, Portland State University
+      year: 2022
 
-- title: Open Source Projects
+    - title: Graduate Research Assistant, David Banis, M.S.
+      institution: Department of Geography, Portland State University
+      year: 2022
+
+    - title: Graduate Teaching Assistant
+      institution: Department of Geography, Portland State University
+      year: 2021 - 2022
+
+- title: Fellowships and Awards
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - year: 2024 - 2027
+      items: <b>Agriculture and Food Research Initiative Predoctoral Fellowship</b>, USDA National Institute of Food and Agriculture
+    - year: 2024
+      items: <b>River Scholar</b>, River Field Studies Network
+    - year: 2023
+      items: <b>Student Service Award</b>, Department of Geography, Portland State University
+    - year: 2022
+      items: <b>Graduate Rockie Award</b>, Department of Geography, Portland State University
+    - year: 2021
+      items: <b>Graduate Laurels Award</b>, Department of Geography, Portland State University
 
-- title: Honors and Awards
+- title: Selected Publications
   type: time_table
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
+    - year: 2025
+      items: 
+      - Karambelkar, S., Cantor, A., Bui, T., Turley, B., Fischer, M., & Ames, S. Pumped storage hydropower in the United States: Emerging importance, environmental and social impacts, and critical considerations. <i>WIREs Water</i>.
+      - Bui, T. & Kelly, S. Collaborative mapping. River Field Studies Network. <i>QUBES Educational Resources</i>. 
+    - year: 2024
+      items: Cantor, A., Bui, T., Boyce, Z., & Farley, J. Working (around/within/against) prior appropriation: Diverse hydrosocial practices to secure water for rivers. <i>Journal of Political Ecology, 31</i>(1).
+      
+- title: Selected Presentations
+  type: time_table
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - year: 2025
+      items: 
+      - Bui, T., Gaines, K., Banis, D., Feenstra, E., & McLain, R. “Human ecology mapping on the Upper Rogue River: Lessons learned from a community engagement process.” Conference for Advancing Participatory Sciences. Portland, Oregon. [Talk].
+      - Bui, T. “Conflict, collaboration, and the commons: On working with and around prior appropriation.” Association of American Geographers Annual Meeting. Detroit, Michigan. [Talk].
+    - year: 2024
+      items: 
+      - Bui, T. “Water Infrastructure and Opportunities – Built and Natural”. Affiliated Tribes of Northwest Indians, Changing Currents: Tribal Water Summit. Coos Bay, Oregon. [Panel].
+      - Banis, D., McLain, R., Bui, T., & Cerveny, L. “Introduction to Mapping with Public Participation Geographic Information Systems (PPGIS)”. Society for Applied Anthropology Annual Meeting. Santa Fe, New Mexico. [Workshop].
+    - year: 2023
+      items: 
+      - Bui, T. “Collaborative cartography as a tool for public engagement.” University Network for Collaborative Governance Annual Retreat. Jackson, Wyoming. [Talk].
+      - Bui, T., McLain, R., & Stenovec, M. “Collaborative governance and the formation of hydrosocial territory, Columbia River Basin, United States.” Association of American Geographers Annual Meeting. Denver, Colorado. [Talk].
+    - year: 2022
+      items: Bui, T., McKinney-Wise, L., & Hunter, N. “Establishing a GIS-Mapping Exchange for public libraries.” Montana Library Association/Pacific Northwest Library Association/Mountain Plains Library Association Tri-Conference. Missoula, Montana. [Talk].
 
-- title: Other Interests
-  type: list
+- title: Selected Creative Works
+  type: time_table
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - year: 2025
+      items: Bui, T. & Banis, D. Cut and Paste, co-curator. Department of Geography, Portland State University. Portland, Oregon. [Group exhibition].
+    - year: 2021
+      items: Bui, T. Shooflies and Psilocybin, movement director and choreographer. Asae Dean, director. Fertile Ground Festival. Portland, Oregon. [Short film].
+    - year: 2019
+      items: Bui, T. Gambatte: An American Legacy, dance captain. Chisao Hata, director. Vanport Mosaic Festival. Portland, Oregon [Stage performance].
+
+- title: Certifications
+  type: time_table
+  contents:
+    - title: Professional Certificate in Tribal Relations
+      institution: Institute for Tribal Government, Portland State University
+      year: 2025
