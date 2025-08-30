@@ -40,10 +40,24 @@
       year: 2023
     - title: Graduate Research Assistant, Dr. Nancee Hunter
       institution: Department of Geography, Portland State University
-      year: 2022
     - title: Graduate Research Assistant, David Banis, M.S.
       institution: Department of Geography, Portland State University
       year: 2022
     - title: Graduate Teaching Assistant
       institution: Department of Geography, Portland State University
       year: 2021 - 2022
+
+- title: Fellowships and Awards
+  type: time_table
+  contents:
+    - year: 2024 - 2027
+      items: Agriculture and Food Research Initiative Predoctoral Fellowship, USDA National Institute of Food and Agriculture
+    - year: 2024
+      items: River Scholar, River Field Studies Network
+    - year: 2023
+      items: Student Service Award, Department of Geography, Portland State University
+    - year: 2022
+      items: Graduate Rockie Award, Department of Geography, Portland State University
+    - year: 2021
+      items: Graduate Laurels Award, Department of Geography, Portland State University
+
