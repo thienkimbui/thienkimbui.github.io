@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Thien-Kim Bui",
+    "label": "PhD candidate, Earth, Environment and Society",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "thienbui@pdx.edu",
+    "phone": "(503) 725-6676",
+    "url": "https://thienkimbui.github.io/",
+    "summary": "Complete CV available upon request",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -24,92 +24,120 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "National Policy Consensus Center, Portland State University",
+      "position": "Senior Fellow",
+      "url": "",
+      "startDate": "2024",
+      "endDate": "2026",
+      "summary": "",
+      "highlights": ""
     }
-  ],
-  "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "National Policy Consensus Center, Portland State University. Dr. Rebecca McLain.",
+      "position": "Graduate Research Assistant",
+      "url": "",
+      "startDate": "2022",
+      "endDate": "2024",
+      "summary": "",
+      "highlights": ""
+    }
+    {
+      "name": "Public Administration, Hatfield School of Government. Portland State University. Dr. Shane Day.",
+      "position": "Graduate Research Assistant",
+      "url": "",
+      "startDate": "2024",
+      "endDate": "2024",
+      "summary": "",
+      "highlights": ""
+    }
+    {
+      "name": "Department of Geography. Portland State University. Dr. Alida Cantor.",
+      "position": "Graduate Research Assistant",
+      "url": "",
+      "startDate": "2023",
+      "endDate": "2023",
+      "summary": "",
+      "highlights": ""
+    }
+    {
+      "name": "Department of Geography. Portland State University. Dr. Nancee Hunter.",
+      "position": "Graduate Research Assistant",
+      "url": "",
+      "startDate": "2022",
+      "endDate": "2022",
+      "summary": "",
+      "highlights": ""
+    }
+    {
+      "name": "Department of Geography. Portland State University. David Banis, M.S.",
+      "position": "Graduate Research Assistant",
+      "url": "",
+      "startDate": "2022",
+      "endDate": "2022",
+      "summary": "",
+      "highlights": ""
+    }
+    {
+      "name": "Department of Geography. Portland State University.",
+      "position": "Graduate Teaching Assistant",
+      "url": "",
+      "startDate": "2021",
+      "endDate": "2022",
+      "summary": "",
+      "highlights": ""
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Portland State University, Portland, Oregon.",
+      "location": "Portland, Oregon. United States",
+      "url": "",
+      "area": "Geography",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "in progress",
+      "endDate": "",
+      "score": "",
+      "courses": ""
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Agriculture and Food Research Initiative Predoctoral Fellowship",
+      "date": "2024-2027",
+      "awarder": "USDA National Institute of Food and Agriculture",
+      "url": "",
+      "summary": ""
+    }
+    {
+      "title": "River Scholar",
+      "date": "2024",
+      "awarder": "River Field Studies Network",
+      "url": "",
+      "summary": ""
+    }
+    {
+      "title": "Graduate Rockie Award",
+      "date": "2022",
+      "awarder": "Department of Geography, Portland State University",
+      "url": "",
+      "summary": ""
+    }
+    {
+      "title": "Graduate Laurels Award",
+      "date": "2021",
+      "awarder": "Department of Geography, Portland State University",
+      "url": "",
+      "summary": ""
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Professional Certificate in Tribal Relations",
+      "date": "2025",
+      "issuer": "Institute for Tribal Government, Portland State University",
+      "url": "",
+      "icon": ""
     },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
   ],
   "publications": [
     {
