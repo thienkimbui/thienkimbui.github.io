@@ -12,8 +12,8 @@
   type: list
   contents:
     - Political ecology, legal geography, critical Indigenous studies, community-based participatory research, water-energy nexus
-
-  -title: Education
+    
+- title: Education
    type: time_table
    contents:
     - title: Ph.D. candidate Earth, Environment and Society
