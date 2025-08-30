@@ -6,12 +6,12 @@
     - name: Email
       value: thienbui@pdx.edu
     - name:
-      value: Complete CV available upon request
+      value: Full CV available upon request
 
 - title: Research Interests
   type: list
   contents:
-    - Political ecology, legal geography, critical Indigenous studies, community-based participatory research, water-energy nexus
+    - Political ecology, legal geography, critical Native American and Indigenous studies, community-based participatory research, water-energy nexus
 
 - title: Education
   type: time_table
@@ -19,3 +19,31 @@
     - title: Ph.D. candidate Earth, Environment and Society
       institution: Portland State University, Portland, Oregon, United States
       year: in progress
+    - title: B.A. Classics
+      institution: Reed College, Portland, Oregon, United States
+      year: 2005
+
+- title: Selected Professional Experience
+  type: time_table
+  contents:
+    - title: Senior Fellow
+      institution: National Policy Consensus Center, Portland State University
+      year: 2024 - current
+    - title: Graduate Research Assistant, Dr. Rebecca McLain
+      institution: National Policy Consensus Center, Portland State University
+      year: 2022 - 2024
+    - title: Graduate Research Assistant, Dr. Shane Day
+      institution: Public Administration, Hatfield School of Government. Portland State University
+      year: 2024
+    - title: Graduate Research Assistant, Dr. Alida Cantor
+      institution: Department of Geography, Portland State University
+      year: 2023
+    - title: Graduate Research Assistant, Dr. Nancee Hunter
+      institution: Department of Geography, Portland State University
+      year: 2022
+    - title: Graduate Research Assistant, David Banis, M.S.
+      institution: Department of Geography, Portland State University
+      year: 2022
+    - title: Graduate Teaching Assistant
+      institution: Department of Geography, Portland State University
+      year: 2021 - 2022
