@@ -40,6 +40,7 @@
       year: 2023
     - title: Graduate Research Assistant, Dr. Nancee Hunter
       institution: Department of Geography, Portland State University
+      year: 2022
     - title: Graduate Research Assistant, David Banis, M.S.
       institution: Department of Geography, Portland State University
       year: 2022
@@ -60,4 +61,16 @@
       items: Graduate Rockie Award, Department of Geography, Portland State University
     - year: 2021
       items: Graduate Laurels Award, Department of Geography, Portland State University
+
+- title: Selected Publications
+  type: time_table
+  contents:
+    - year: 2025
+      items:
+      - Karambelkar, S., Cantor, A., Bui, T., Turley, B., Fischer, M., & Ames, S. Pumped storage hydropower in the United States: Emerging importance, environmental and social impacts, and critical considerations. <i>WIREs Water</i>.
+      - Bui, T. & Kelly, S. Collaborative mapping. River Field Studies Network. <i>QUBES Educational Resources</i>. 
+    - year: 2024
+      items: 
+      - Cantor, A., Bui, T., Boyce, Z., & Farley, J. Working (around/within/against) prior appropriation: Diverse hydrosocial practices to secure water for rivers. <i>Journal of Political Ecology</i>.
+
 
