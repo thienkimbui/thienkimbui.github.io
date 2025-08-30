@@ -3,8 +3,8 @@
   contents:
     - name: Name
       value: Thien-Kim Bui
-    - name:
-      value: Ph.D. candidate, Portland State University
+    - name: Email
+      value: thienbui@pdx.edu
     - name:
       value: Complete CV available upon request
       
@@ -12,4 +12,10 @@
   type: list
   contents:
     - Political ecology, legal geography, critical Indigenous studies, community-based participatory research, water-energy nexus
-    
+
+  -title: Education
+   type: time_table
+   contents:
+    - title: Ph.D. candidate Earth, Environment and Society
+      institution: Portland State University, Portland, Oregon, United States
+      year: in progress
