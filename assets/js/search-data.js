@@ -23,7 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{
+        },{id: "projects-collage",
+          title: 'COLLAGE',
+          description: "Collaborative Learning and Geographic Experimentations (COLLAGE) develops place-based engagements, workshops, and projects for community groups, government agencies, and other groups to learn more about themselves, each other, and the places we live, work, play, and love.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/COLLAGE/";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
