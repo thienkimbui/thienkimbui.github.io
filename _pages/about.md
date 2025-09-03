@@ -27,4 +27,3 @@ I study water conflict, governance, and collaboration in the US West using commu
 
 At Portland State University, I am a PhD candidate in the <a href='https://sites.google.com/pdx.edu/alidacantor/research'>Cantor Lab</a> in Geography, part of the School of Earth, Environment and Society in the College of Liberal Arts and Sciences. I also conduct research linked to on-the-ground practice as a senior fellow at the <a href='https://www.pdx.edu/policy-consensus-center/'>National Policy Consensus Center</a>, part of the Hatfield School of Government in the College of Urban and Public Affairs.
 
-![image of farmland and a lake, divided by a highway and framed by shrubs](/../main/assets/img/UK_HG.jpg)
