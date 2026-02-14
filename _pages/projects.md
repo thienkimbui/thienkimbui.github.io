@@ -5,7 +5,7 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 3
-display_categories: [group, solo]
+display_categories: [collaborations, solo]
 horizontal: false
 ---
 
